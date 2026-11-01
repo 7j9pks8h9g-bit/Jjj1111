@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+requests>=2.31
+pandas>=2.1
+numpy==1.26.4
+scikit-learn>=1.4
+apscheduler>=3.10
